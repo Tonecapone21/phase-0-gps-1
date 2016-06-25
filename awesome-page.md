@@ -5,3 +5,5 @@ Let's pretend this is code
 ```
 [Google](http://google.com)
 ![Screenshot](screenshot.png)
+
+*We are making some changes here*
